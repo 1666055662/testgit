@@ -1,2 +1,3 @@
 netty
 maven
+kafka
