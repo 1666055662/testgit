@@ -2,3 +2,5 @@ netty
 maven
 kafka
 mysql
+android
+python
